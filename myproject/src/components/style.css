@@ -1,0 +1,52 @@
+
+ #login {
+    width: 300px;
+    border: 2px solid #d6d7da;
+    padding: 25px;
+    border-radius: 5px;
+    font-family: arial;
+    line-height: 20px;
+    color: #333333;
+    font-size: 14px;
+    background: #ffffff;
+    margin: 100px auto;
+  }
+  
+
+  
+   form input {
+    display: block;
+    margin-bottom: 10px;
+    width: 100%;
+    border: solid 1px #BDC7D8;
+    padding: 10px;
+
+
+  }
+  
+  
+  
+  .button {
+    background-color: #00BFFF;
+    border-color: #3ac162;
+    font-weight: bold;
+    padding: 12px 15px;
+    color: #ffffff;
+  }
+  .log-out{
+      color:turquoise;
+      font-size: 30px;
+    margin-left: 90%;
+
+  }
+  .logout_page{
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+  }
+  
+  
+  
